@@ -75,6 +75,8 @@ Tous les multiplicateurs sont appliqués de façon **multiplicative**. `Guardian
 | **Gold**             | Tous les monstres                                                      | Achat & amélioration de gardiens / équipement |
 | **Gemmes**           | Donjon « Gem Dungeon » (10 waves) — clé : 0,2 % Boss / 0,5 % Méga‑Boss | Contenu premium (slots, épées supérieures)    |
 | **Potion Fragments** | « Potion Raid » (structure identique)                                  | Craft des potions                             |
+| **Sword Fragments**  | Kill mobs/ raid                                                        | Craft des swords                              |
+| **Armor Fragments**  | Kill mobs/ raid                                                        | Craft des armors                              |
 
 `GoldDrop = MobGoldValue × GoldMult × PrestigeMult × GamePassMult`
 
